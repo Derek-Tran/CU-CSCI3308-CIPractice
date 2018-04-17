@@ -1,0 +1,5 @@
+install: make deps
+
+language: c
+
+target: make test
